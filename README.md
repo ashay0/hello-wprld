@@ -1,1 +1,3 @@
-# hello-wprld
+# maven-project
+
+Simple Maven Project
